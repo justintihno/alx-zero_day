@@ -23,10 +23,13 @@ Looked into:
 
 + [Set up Git](https://docs.github.com/en/get-started/quickstart/set-up-git)
 + [About READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
-
++ [How to Write a Git Commit Message](https://cbea.ms/git-commit/)
++ [Learn Git Branching](https://learngitbranching.js.org/)
++ [Effective pull requests and other good practices for teams using github](https://codeinthehole.com/tips/pull-requests-and-other-good-practices-for-teams-using-github/)
 
 ### More info
-[Install git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
++ [Creating a personal access token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
++ [Customizing Git - Git Configuration](https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration)
 
 ### Usage
 <details>
@@ -41,9 +44,7 @@ $ git push origin main
 </details>
     
 ## Tasks :page_with_curl:
-Created repository [zero_day](https://github.com/justintihno/zero_day)
-    
-    
+Created, cloned this repository [alx-zero_day](https://github.com/justintihno/alx-zero_day) and configured git
 
 ### Author
 + [Tihno](https://github.com/justintihno)
