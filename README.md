@@ -44,7 +44,7 @@ $ git push origin main
 </details>
     
 ## Tasks :page_with_curl:
-Created, cloned this repository [alx-zero_day](https://github.com/justintihno/alx-zero_day) and configured git
+[0. Create and setup your Git and GitHub account](https://github.com/justintihno/alx-zero_day): Cloned repository, did git configurationg and pushed to origin using CLI
 
 ### Author
 + [Tihno](https://github.com/justintihno)
